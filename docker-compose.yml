@@ -2,7 +2,7 @@
 version: "3.8"
 services:
   movies:
-    image: venkatesh1826/paytmmovies:latest
+    image: dileep204111/paytmmovies:latest
     ports:
       - 81:80
     deploy:
